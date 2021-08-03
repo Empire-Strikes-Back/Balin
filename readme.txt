@@ -1,1 +1,1 @@
-i am cloud-scout program - i am game
+i am cloud-scout program
