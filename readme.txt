@@ -1,1 +1,1 @@
-i am cloud-scout program - i explore docker
+i am cloud-scout program
